@@ -32,7 +32,7 @@
  No PowerPoit, inseri as imagens e os texto para gerar as páginas para do ebook e salvar em PDF.
  
 ## 🚀 Resultados
-
+[ebook ilustrado.pdf](https://github.com/rgr147/lab-natty-or-not/blob/b06a2aacafa000710567849a3262d6cd698fbb10/ebook%20ilustrato.pdf)
 
 ## 💭 Reflexão 
 Com esse desafio tive a oportunidade de mr desafiar a usar as ferramentas de IAs para gerar algo criativo, que vai além do uso simples de pedir para o ChatGPT revisar textos de e-mails. 
